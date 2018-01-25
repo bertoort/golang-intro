@@ -20,6 +20,7 @@
 ### Deploy to Heroku
 - Add dependencies
 - Create Procfile
+- [example](https://pure-citadel-27686.herokuapp.com/)
 
 ## Resources
 
